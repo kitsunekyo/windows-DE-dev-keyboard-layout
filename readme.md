@@ -1,4 +1,4 @@
-# German QWERTZ Layout for Developers
+# DE Keyboard Layout for Devs (no deadlock)
 
 Removes deadlock functionality from ` and ^ keys    
 > You'll no longer have to hit those keys twice to render them.    
